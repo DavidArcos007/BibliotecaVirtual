@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">appBibliotecaVirtual</string>
+    <string name="txtRegistro">Registro</string>
+    <string name="txtLogin">Ingreso</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="txtRecuerdame">Recuerdame</string>
+    <string name="btnMenu">MIS PRESTAMOS</string>
+    <string name="btnReservas">LIBROS O PELÍCULAS QUE PODRIAMOS INCLUÍR</string>
+    <string name="opCerrarSesion">Cerrar Sesion</string>
+    <string name="btnInformeBusquedas">BUSQUEDAS WEB</string>
+    <string name="btnRecargas">RECARGAS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
