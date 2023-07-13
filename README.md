@@ -1,5 +1,5 @@
 # BibliotecaVirtual
-# Sistema distribuido de gestión de pedidos
+# Sistema distribuido de Libros y Peliculas
 
 El sistema distrubuido fue desarrollado bajo en Android Studio. Cuenta con una aplicación móvil el cual se encarga de la compra y renta de peliculas y libros web. 
 
